@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volunteerconnect", "Try4\Volunteerconnect.csproj", "{3F498CB9-4525-476E-A374-F34B82128ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F498CB9-4525-476E-A374-F34B82128ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F498CB9-4525-476E-A374-F34B82128ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F498CB9-4525-476E-A374-F34B82128ACD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3F498CB9-4525-476E-A374-F34B82128ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F498CB9-4525-476E-A374-F34B82128ACD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8047498-2584-43EB-8C3D-612C8946E633}
+	EndGlobalSection
+EndGlobal
